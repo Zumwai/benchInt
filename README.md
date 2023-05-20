@@ -2,9 +2,9 @@
 goarch: amd64
 pkg: sf
 cpu: AMD Ryzen 7 4700U with Radeon Graphics
-
-| BenchmarkFunnel64_1-8 | 5 |	224629192 ns/op |
+| Bench | | |
 | :--- | :---: | ---: |
+| BenchmarkFunnel64_1-8 | 5 |	224629192 ns/op |
 | BenchmarkFunnel64_2-8 | 3	| 440179700 ns/op |
 | BenchmarkFunnel32_1-8 | 5	| 217651813 ns/op |
 | BenchmarkFunnel32_2-8 | 2	| 805961508 ns/op |
